@@ -1,5 +1,5 @@
-ElixirTrello
-============
+TrelloEx
+========
 
 Summary
 -------
